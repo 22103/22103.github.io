@@ -1,0 +1,51 @@
+@font-face {
+    font-family: '1';
+    src: url(../font/2.ttf);
+}
+body{
+    font-family: '1';
+}
+.welcome1{
+    font-size: 25px;
+    position: absolute;
+    top:0px;
+    left: 0px;
+    width: 2550px;
+    background-color: #1d1b31;
+    height: 90px;
+}
+h1.hello{
+    position: absolute;
+    top: -25px;
+    left: 20px;
+    color: #fff;
+}
+.cfx{
+    position: absolute;
+    top: 90px;
+    left: 0px;
+    width: 100px;
+    height: 1000px;
+    background-color: #1d1b31;
+}
+h2.hitokoto{
+    font-size: 25px;
+    width: 1px;
+    position: absolute;
+    left: 40px;
+    top: 15px;
+    color: #fff;
+}
+.main{
+    position: absolute;
+    top: 90px;
+    left: 100px;
+}
+.box{
+    position: absolute;
+    color: #fff;
+    font-size: 40px;
+    top: -20px;
+    left: 380px;
+    z-index: 999;
+}
