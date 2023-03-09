@@ -1,0 +1,54 @@
+@font-face {
+    font-family: '1';
+    src: url(/font/2.ttf);
+}
+body{
+    background-color: #E4E9F7;
+    font-family: '1';
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+.d{
+    font-size: 15px;
+    position: absolute;
+    top: 80px;
+    left: 100px;
+    background-color: white;
+    width: 1000px;
+    height: 500px;
+    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 19px;
+}
+a:hover{
+    color:  #5698c3;;
+}
+h1.c{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+h1.jsj{
+    position: absolute;
+    top: 80px;
+    left: 20px;
+}
+h1.html{
+    position: absolute;
+    top: 140px;
+    left: 20px;
+}
+h1.a{
+    position: absolute;
+    top: 200px;
+    left: 20px;
+}
+
+.back{
+    font-size: 40px;
+    position: absolute;
+    top: 60px; 
+    left: 500px;
+    z-index: 999;
+}
